@@ -32,13 +32,14 @@ export const TextSelected = styled.p`
 `
 export const CardContainer = styled.div`
     display: flex;
-    height: 20rem;
-    width: 20rem;
+    height: 26rem;
+    width: 25rem;
+    justify-content: space-around;
+    padding: 2rem 2.5rem;
     border-radius: 1rem;
     flex-direction: column;
     background: linear-gradient(to right top, #232A34,#181E27);
     color: #131519;
-    gap: 1rem;
     box-sizing: border-box;
     padding: 2rem 2.5rem;
 

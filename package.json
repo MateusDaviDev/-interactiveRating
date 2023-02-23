@@ -2,8 +2,11 @@
   "name": "interactive-rating-component",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://MateusDaviDev.github.io/-interactiveRating",
   "type": "module",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview"
@@ -19,6 +22,7 @@
     "@types/react-dom": "^18.0.7",
     "@types/styled-components": "^5.1.26",
     "@vitejs/plugin-react": "^2.2.0",
+    "gh-pages": "^5.0.0",
     "styled-components": "^5.3.6",
     "typescript": "^4.6.4",
     "vite": "^3.2.0"

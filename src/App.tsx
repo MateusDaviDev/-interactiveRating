@@ -5,7 +5,7 @@ import RattingCard from './pages/Ratting-card'
 import { BrowserRouter,Routes, Route } from 'react-router-dom';
 import MyContext from './contexts/myContext'
 function App() {
-  const [RatingNote,SetRatingNote] = React.useState()
+  const [RatingNote,SetRatingNote] = React.useState(0)
 
   return (
     <BrowserRouter>
