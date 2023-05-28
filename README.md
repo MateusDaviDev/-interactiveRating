@@ -20,8 +20,9 @@
 
 <h3>Links</h3>
 <ul>
-<li>Solution URL: <a href="https://github.com/MateusDaviDev/-interactiveRating">Click here</a></li>
-<li>Live Site URL: <a href="https://mateusdavidev.github.io/-interactiveRating/#/">Click here</a></li>
+<li>Solution URL: <a href="https://github.com/MateusDaviDev/advice-generator-app">Click here</a></li>
+<li>Live Site URL: <a href="https://mateusdavidev.github.io/advice-generator-app/">Click here</a></li>
+<li>Front end mentor solution URL : <a href="https://www.frontendmentor.io/solutions/advicegeneratorapp-Li0_Fwue1o">Click here</a></li>
 
 </ul>
 
